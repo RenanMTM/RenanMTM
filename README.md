@@ -34,7 +34,7 @@ Estou constantemente aprendizado e desenvolvimento, buscando oportunidades para 
 
 Estou sempre aberto a colaborações e feedback. Se você tem ideias, sugestões ou apenas quer bater um papo, sinta-se à vontade para entrar em contato. 
 
-#### Contato: 🚀
+🚀 #### Contato: 
  
 <div> 
    <a href="https://www.instagram.com/renan_mtm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
