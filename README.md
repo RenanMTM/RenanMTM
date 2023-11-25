@@ -16,7 +16,7 @@ Sou **Renan Tavares** e estou em uma emocionante jornada de transição de carre
 
 #### Objetivos: 
 
-Estou constantemente aprendizado e desenvolvimento, buscando oportunidades para me aprimorar. Meus objetivos incluem aprofundar meu conhecimento em Javascript, Bibliotecas e Frameworks e explorar mais as áreas de back-end com foco para o front-end.
+Estou em constante aprendizado e desenvolvimento, buscando oportunidades para me aprimorar. Meus objetivos incluem aprofundar meu conhecimento em Javascript, Bibliotecas e Frameworks e explorar mais as áreas de back-end com foco para o front-end.
 
  <div>
    <a href="https://github.com/RenanMTM">
